@@ -1,0 +1,620 @@
+2021-03-29 04:44:01:290954900 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 04:44:04:298794418 --- 1.1.1.1 ping statistics ---
+2021-03-29 04:44:04:299629936 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 04:44:04:300442762 rtt min/avg/max/mdev = 22.073/22.348/22.659/0.235 ms
+2021-03-29 04:55:01:348326150 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 04:55:04:354606813 --- 1.1.1.1 ping statistics ---
+2021-03-29 04:55:04:355467059 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 04:55:04:356298549 rtt min/avg/max/mdev = 22.063/22.342/22.611/0.211 ms
+2021-03-29 05:00:01:394808032 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:00:04:401594875 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:00:04:402443563 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 05:00:04:403232602 rtt min/avg/max/mdev = 22.272/22.407/22.542/0.133 ms
+2021-03-29 05:11:01:450071117 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:11:04:456494955 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:11:04:457463273 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 05:11:04:458258638 rtt min/avg/max/mdev = 22.096/22.332/22.500/0.149 ms
+2021-03-29 05:22:01:511760007 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:22:04:519503124 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:22:04:520381869 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 05:22:04:521479746 rtt min/avg/max/mdev = 22.054/22.521/22.784/0.286 ms
+2021-03-29 05:33:01:571034659 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:33:04:576130474 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:33:04:577114206 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 05:33:04:577946900 rtt min/avg/max/mdev = 22.207/22.432/22.943/0.301 ms
+2021-03-29 05:44:01:622397925 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:44:04:629972462 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:44:04:631024426 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 05:44:04:631913042 rtt min/avg/max/mdev = 22.239/22.387/22.502/0.107 ms
+2021-03-29 05:55:01:678453824 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 05:55:04:685670811 --- 1.1.1.1 ping statistics ---
+2021-03-29 05:55:04:686509562 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 05:55:04:687288751 rtt min/avg/max/mdev = 22.098/22.334/22.577/0.224 ms
+2021-03-29 06:00:01:726330859 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:00:04:732333366 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:00:04:733360922 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 06:00:04:734150717 rtt min/avg/max/mdev = 22.177/22.548/23.163/0.375 ms
+2021-03-29 06:11:01:782611905 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:11:04:790029026 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:11:04:790944589 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 06:11:04:791711776 rtt min/avg/max/mdev = 22.042/22.256/22.369/0.130 ms
+2021-03-29 06:22:01:843889325 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:22:04:850499082 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:22:04:851248863 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 06:22:04:852083778 rtt min/avg/max/mdev = 22.211/22.390/22.751/0.212 ms
+2021-03-29 06:33:01:141566065 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:33:04:149658307 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:33:04:150472104 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 06:33:04:151302251 rtt min/avg/max/mdev = 22.189/22.396/22.634/0.189 ms
+2021-03-29 06:44:01:198654560 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:44:04:207669180 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:44:04:208443417 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 06:44:04:209419937 rtt min/avg/max/mdev = 22.097/22.327/22.661/0.209 ms
+2021-03-29 06:55:01:255495420 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 06:55:04:260900621 --- 1.1.1.1 ping statistics ---
+2021-03-29 06:55:04:261765325 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 06:55:04:262672840 rtt min/avg/max/mdev = 22.209/22.272/22.436/0.095 ms
+2021-03-29 07:00:01:305828742 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:00:04:313712080 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:00:04:314551576 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 07:00:04:315273142 rtt min/avg/max/mdev = 22.225/22.374/22.543/0.112 ms
+2021-03-29 07:11:01:360895838 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:11:04:369073157 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:11:04:369868329 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 07:11:04:370779486 rtt min/avg/max/mdev = 22.170/22.259/22.460/0.118 ms
+2021-03-29 07:22:01:419087625 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:22:04:424536274 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:22:04:425576889 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 07:22:04:426631525 rtt min/avg/max/mdev = 22.300/22.569/23.007/0.266 ms
+2021-03-29 07:33:01:474323925 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:33:04:481759200 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:33:04:482634746 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 07:33:04:483369801 rtt min/avg/max/mdev = 22.292/22.356/22.438/0.052 ms
+2021-03-29 07:44:01:528337955 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:44:04:536223511 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:44:04:537304311 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 07:44:04:538188461 rtt min/avg/max/mdev = 22.354/22.495/22.684/0.119 ms
+2021-03-29 07:55:01:587129235 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 07:55:04:593698984 --- 1.1.1.1 ping statistics ---
+2021-03-29 07:55:04:594583878 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 07:55:04:595434460 rtt min/avg/max/mdev = 22.264/22.353/22.416/0.063 ms
+2021-03-29 08:00:01:635878608 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:00:04:642842465 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:00:04:643686986 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 08:00:04:644446507 rtt min/avg/max/mdev = 22.089/22.325/22.670/0.213 ms
+2021-03-29 08:11:01:694386926 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:11:04:698161132 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:11:04:699063992 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-29 08:11:04:699826988 rtt min/avg/max/mdev = 22.265/22.408/22.795/0.223 ms
+2021-03-29 08:22:01:753274279 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:22:04:762509272 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:22:04:763313222 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 08:22:04:764065622 rtt min/avg/max/mdev = 22.155/22.454/22.640/0.192 ms
+2021-03-29 08:33:01:810748552 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:33:04:816269536 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:33:04:817323516 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 08:33:04:818104427 rtt min/avg/max/mdev = 22.051/22.158/22.287/0.098 ms
+2021-03-29 08:44:01:867923431 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:44:04:878095496 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:44:04:878988155 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 08:44:04:879720420 rtt min/avg/max/mdev = 22.167/22.365/22.492/0.127 ms
+2021-03-29 08:55:01:925734114 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 08:55:04:931732081 --- 1.1.1.1 ping statistics ---
+2021-03-29 08:55:04:932869672 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 08:55:04:933846812 rtt min/avg/max/mdev = 22.252/22.352/22.500/0.091 ms
+2021-03-29 09:00:01:977212748 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:00:04:983181094 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:00:04:984376705 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 09:00:04:985956087 rtt min/avg/max/mdev = 22.163/22.324/22.600/0.166 ms
+2021-03-29 09:11:02:035201480 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:11:05:044062523 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:11:05:045078755 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 09:11:05:045905028 rtt min/avg/max/mdev = 22.271/22.409/22.537/0.100 ms
+2021-03-29 09:22:01:101232469 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:22:04:109611478 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:22:04:110456018 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 09:22:04:111313412 rtt min/avg/max/mdev = 22.303/22.443/22.614/0.111 ms
+2021-03-29 09:33:01:158605587 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:33:04:165369305 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:33:04:166309136 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 09:33:04:167187437 rtt min/avg/max/mdev = 22.199/22.372/22.536/0.123 ms
+2021-03-29 09:44:01:215420929 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:44:04:223234111 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:44:04:224117081 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 09:44:04:225121327 rtt min/avg/max/mdev = 22.191/22.379/22.519/0.124 ms
+2021-03-29 09:55:01:269863442 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 09:55:04:276363582 --- 1.1.1.1 ping statistics ---
+2021-03-29 09:55:04:277503008 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 09:55:04:278281292 rtt min/avg/max/mdev = 22.272/22.440/22.590/0.114 ms
+2021-03-29 10:00:01:320399265 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:00:04:329887336 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:00:04:330740343 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 10:00:04:331671637 rtt min/avg/max/mdev = 22.070/22.251/22.426/0.133 ms
+2021-03-29 10:11:01:378575531 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:11:04:386895930 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:11:04:387771462 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 10:11:04:388793391 rtt min/avg/max/mdev = 22.111/22.382/22.697/0.208 ms
+2021-03-29 10:22:01:439748410 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:22:04:447900586 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:22:04:448886332 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 10:22:04:449671089 rtt min/avg/max/mdev = 22.300/22.474/22.661/0.136 ms
+2021-03-29 10:33:01:493144905 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:33:04:500891011 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:33:04:501695402 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 10:33:04:502464652 rtt min/avg/max/mdev = 22.277/22.455/22.605/0.127 ms
+2021-03-29 10:44:01:550525684 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:44:04:558006615 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:44:04:558810513 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 10:44:04:559550769 rtt min/avg/max/mdev = 22.313/22.673/22.980/0.247 ms
+2021-03-29 10:55:01:602997380 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 10:55:04:609969463 --- 1.1.1.1 ping statistics ---
+2021-03-29 10:55:04:610858094 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 10:55:04:611717242 rtt min/avg/max/mdev = 22.227/22.364/22.467/0.098 ms
+2021-03-29 11:00:01:654422731 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:00:04:660816876 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:00:04:661778995 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 11:00:04:662560076 rtt min/avg/max/mdev = 22.384/22.797/23.697/0.530 ms
+2021-03-29 11:11:01:711422929 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:11:04:720800692 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:11:04:721733549 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 11:11:04:722523846 rtt min/avg/max/mdev = 22.404/22.486/22.618/0.079 ms
+2021-03-29 11:22:01:774071738 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:22:04:780344847 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:22:04:781306559 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 11:22:04:782051861 rtt min/avg/max/mdev = 22.157/22.390/22.641/0.187 ms
+2021-03-29 11:33:01:827927784 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:33:04:835979941 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:33:04:837296281 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 11:33:04:838415882 rtt min/avg/max/mdev = 22.260/22.445/22.572/0.124 ms
+2021-03-29 11:44:01:883912610 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:44:04:890158838 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:44:04:890958867 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 11:44:04:891881423 rtt min/avg/max/mdev = 22.283/22.516/22.723/0.193 ms
+2021-03-29 11:55:01:937048311 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 11:55:04:944853556 --- 1.1.1.1 ping statistics ---
+2021-03-29 11:55:04:945685267 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 11:55:04:946466583 rtt min/avg/max/mdev = 22.084/22.292/22.491/0.176 ms
+2021-03-29 12:00:01:985776834 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:00:04:993280597 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:00:04:994091766 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 12:00:04:994948028 rtt min/avg/max/mdev = 22.217/22.396/22.683/0.173 ms
+2021-03-29 12:11:01:041323657 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:11:04:047001354 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:11:04:047816193 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 12:11:04:049124997 rtt min/avg/max/mdev = 22.212/22.351/22.495/0.111 ms
+2021-03-29 12:22:01:102161768 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:22:04:109633833 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:22:04:110568977 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 12:22:04:111343278 rtt min/avg/max/mdev = 22.241/22.423/22.727/0.182 ms
+2021-03-29 12:33:01:157708934 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:33:04:166691382 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:33:04:167425089 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 12:33:04:168223840 rtt min/avg/max/mdev = 22.217/22.448/22.641/0.159 ms
+2021-03-29 12:44:01:214770441 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:44:04:221297499 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:44:04:222413743 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 12:44:04:223166085 rtt min/avg/max/mdev = 22.199/22.302/22.394/0.070 ms
+2021-03-29 12:55:01:271177885 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 12:55:04:281068726 --- 1.1.1.1 ping statistics ---
+2021-03-29 12:55:04:282013443 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 12:55:04:282996330 rtt min/avg/max/mdev = 22.303/22.527/22.695/0.141 ms
+2021-03-29 13:00:01:322720520 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:00:04:330746656 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:00:04:331581004 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 13:00:04:332322546 rtt min/avg/max/mdev = 22.253/22.376/22.490/0.083 ms
+2021-03-29 13:11:01:382050580 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:11:04:391478614 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:11:04:392598374 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 13:11:04:394062088 rtt min/avg/max/mdev = 22.247/22.367/22.489/0.120 ms
+2021-03-29 13:22:01:447493282 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:22:04:453933194 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:22:04:454722677 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 13:22:04:455576773 rtt min/avg/max/mdev = 22.172/22.349/22.567/0.144 ms
+2021-03-29 13:33:01:503810379 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:33:04:511852553 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:33:04:512950658 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 13:33:04:513765389 rtt min/avg/max/mdev = 22.086/22.259/22.356/0.109 ms
+2021-03-29 13:44:01:559588860 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:44:04:568495772 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:44:04:569511038 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 13:44:04:570333770 rtt min/avg/max/mdev = 22.159/22.406/22.537/0.146 ms
+2021-03-29 13:55:01:615384282 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 13:55:04:621692258 --- 1.1.1.1 ping statistics ---
+2021-03-29 13:55:04:622575588 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 13:55:04:623499927 rtt min/avg/max/mdev = 22.220/22.367/22.611/0.146 ms
+2021-03-29 14:00:01:663372878 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:00:04:672990900 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:00:04:673967900 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 14:00:04:674772693 rtt min/avg/max/mdev = 22.402/22.531/22.684/0.100 ms
+2021-03-29 14:11:01:719330492 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:11:04:727530700 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:11:04:728400620 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 14:11:04:729459230 rtt min/avg/max/mdev = 22.190/22.369/22.569/0.146 ms
+2021-03-29 14:22:01:783552630 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:22:04:789159701 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:22:04:789941551 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 14:22:04:790742529 rtt min/avg/max/mdev = 22.161/22.403/22.530/0.142 ms
+2021-03-29 14:33:01:840288682 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:33:04:848310253 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:33:04:849286513 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 14:33:04:850002356 rtt min/avg/max/mdev = 22.288/22.445/22.735/0.173 ms
+2021-03-29 14:44:01:894947136 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:44:04:903344910 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:44:04:904174701 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 14:44:04:905168379 rtt min/avg/max/mdev = 22.190/22.378/22.654/0.172 ms
+2021-03-29 14:55:01:955643246 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 14:55:04:965734799 --- 1.1.1.1 ping statistics ---
+2021-03-29 14:55:04:966593193 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 14:55:04:967433584 rtt min/avg/max/mdev = 22.171/22.442/22.600/0.170 ms
+2021-03-29 15:00:02:008097660 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:00:05:011850907 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:00:05:013130278 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-29 15:00:05:014019184 rtt min/avg/max/mdev = 22.162/22.236/22.322/0.065 ms
+2021-03-29 15:11:01:062391930 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:11:04:067463381 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:11:04:068285742 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 15:11:04:069287609 rtt min/avg/max/mdev = 22.577/23.075/24.474/0.808 ms
+2021-03-29 15:22:01:118713727 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:22:04:125949407 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:22:04:126784126 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 15:22:04:127751567 rtt min/avg/max/mdev = 22.281/22.478/22.856/0.225 ms
+2021-03-29 15:33:01:173581688 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:33:04:177797216 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:33:04:178663892 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 15:33:04:179430599 rtt min/avg/max/mdev = 22.051/22.244/22.683/0.259 ms
+2021-03-29 15:44:01:227227142 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:44:04:236542576 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:44:04:237514930 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 15:44:04:238268374 rtt min/avg/max/mdev = 22.557/22.603/22.637/0.029 ms
+2021-03-29 15:55:01:283756635 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 15:55:04:290472802 --- 1.1.1.1 ping statistics ---
+2021-03-29 15:55:04:291243380 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 15:55:04:292026344 rtt min/avg/max/mdev = 22.070/22.463/22.873/0.284 ms
+2021-03-29 16:00:01:334433176 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:00:04:342329239 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:00:04:343361757 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 16:00:04:344278494 rtt min/avg/max/mdev = 22.215/22.290/22.394/0.065 ms
+2021-03-29 16:11:01:390624562 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:11:04:399088118 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:11:04:399944180 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 16:11:04:400900158 rtt min/avg/max/mdev = 22.143/22.249/22.399/0.108 ms
+2021-03-29 16:22:01:453882767 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:22:04:457228545 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:22:04:457988272 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 16:22:04:458771431 rtt min/avg/max/mdev = 22.166/22.409/22.738/0.230 ms
+2021-03-29 16:33:01:502857211 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:33:04:513591197 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:33:04:514396997 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 16:33:04:516139394 rtt min/avg/max/mdev = 22.418/22.604/22.755/0.122 ms
+2021-03-29 16:44:01:562774611 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:44:04:568503816 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:44:04:569467379 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 16:44:04:570270222 rtt min/avg/max/mdev = 22.214/22.311/22.387/0.071 ms
+2021-03-29 16:55:01:615920384 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 16:55:04:623255356 --- 1.1.1.1 ping statistics ---
+2021-03-29 16:55:04:624032498 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 16:55:04:625027802 rtt min/avg/max/mdev = 22.392/22.643/22.956/0.212 ms
+2021-03-29 17:00:01:669446614 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:00:04:673779860 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:00:04:674575368 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 17:00:04:675345551 rtt min/avg/max/mdev = 22.162/23.203/25.928/1.577 ms
+2021-03-29 17:11:01:723015464 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:11:04:730926036 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:11:04:731995878 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 17:11:04:733432781 rtt min/avg/max/mdev = 22.205/22.386/22.642/0.159 ms
+2021-03-29 17:22:01:811022455 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:22:04:818849565 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:22:04:819653771 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 17:22:04:820426903 rtt min/avg/max/mdev = 22.167/22.432/22.850/0.253 ms
+2021-03-29 17:33:01:865808982 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:33:04:873067394 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:33:04:873862304 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 17:33:04:874696140 rtt min/avg/max/mdev = 22.342/22.421/22.502/0.078 ms
+2021-03-29 17:44:01:935071540 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:44:04:941933541 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:44:04:942821497 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 17:44:04:943701132 rtt min/avg/max/mdev = 22.050/22.450/23.000/0.344 ms
+2021-03-29 17:55:01:992984418 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 17:55:04:999977054 --- 1.1.1.1 ping statistics ---
+2021-03-29 17:55:05:001196114 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 17:55:05:002298318 rtt min/avg/max/mdev = 22.179/22.277/22.376/0.070 ms
+2021-03-29 18:00:01:042372788 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:00:04:048499232 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:00:04:049874676 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 18:00:04:051140224 rtt min/avg/max/mdev = 22.296/22.453/22.603/0.108 ms
+2021-03-29 18:11:01:102214379 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:11:04:108219229 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:11:04:109311170 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 18:11:04:110113783 rtt min/avg/max/mdev = 22.222/22.429/22.792/0.217 ms
+2021-03-29 18:22:01:175822489 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:22:04:180917964 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:22:04:181794267 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 18:22:04:182799307 rtt min/avg/max/mdev = 22.359/22.583/22.978/0.234 ms
+2021-03-29 18:33:01:237766761 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:33:04:243426275 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:33:04:244252452 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 18:33:04:245562610 rtt min/avg/max/mdev = 22.162/22.436/22.766/0.215 ms
+2021-03-29 18:44:01:299242141 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:44:04:307595833 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:44:04:310225176 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 18:44:04:311968859 rtt min/avg/max/mdev = 22.419/23.655/26.850/1.848 ms
+2021-03-29 18:55:01:387265969 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 18:55:04:392196617 --- 1.1.1.1 ping statistics ---
+2021-03-29 18:55:04:393875657 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 18:55:04:395089729 rtt min/avg/max/mdev = 22.333/22.473/22.630/0.105 ms
+2021-03-29 19:00:01:439111236 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:00:04:446517207 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:00:04:448048006 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 19:00:04:449767701 rtt min/avg/max/mdev = 22.114/22.248/22.339/0.085 ms
+2021-03-29 19:11:01:496507061 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:11:04:501839843 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:11:04:502946672 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 19:11:04:503861905 rtt min/avg/max/mdev = 22.224/22.405/22.613/0.150 ms
+2021-03-29 19:22:01:557952547 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:22:04:565082307 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:22:04:565991073 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 19:22:04:566750174 rtt min/avg/max/mdev = 22.143/22.398/22.702/0.205 ms
+2021-03-29 19:33:01:617568111 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:33:04:624582627 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:33:04:625651604 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 19:33:04:626642914 rtt min/avg/max/mdev = 22.255/22.407/22.668/0.162 ms
+2021-03-29 19:44:01:681720268 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:44:04:689410593 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:44:04:690617883 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 19:44:04:691824707 rtt min/avg/max/mdev = 22.228/22.425/22.767/0.205 ms
+2021-03-29 19:55:01:740385093 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 19:55:04:749236221 --- 1.1.1.1 ping statistics ---
+2021-03-29 19:55:04:750011966 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 19:55:04:750936490 rtt min/avg/max/mdev = 22.084/22.343/22.561/0.170 ms
+2021-03-29 20:00:01:793422128 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:00:04:802250631 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:00:04:803149535 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 20:00:04:803988451 rtt min/avg/max/mdev = 22.188/22.421/22.616/0.155 ms
+2021-03-29 20:11:01:862753367 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:11:04:869688349 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:11:04:870820150 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 20:11:04:871847667 rtt min/avg/max/mdev = 22.338/22.777/23.510/0.471 ms
+2021-03-29 20:22:01:940439531 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:22:04:946641682 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:22:04:947962440 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 20:22:04:949846298 rtt min/avg/max/mdev = 22.311/22.662/22.912/0.225 ms
+2021-03-29 20:33:02:008338161 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:33:05:014308859 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:33:05:015075340 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 20:33:05:015801976 rtt min/avg/max/mdev = 22.314/23.506/26.475/1.719 ms
+2021-03-29 20:44:01:070302911 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:44:04:077413403 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:44:04:078461299 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 20:44:04:079496684 rtt min/avg/max/mdev = 22.433/22.761/23.408/0.380 ms
+2021-03-29 20:55:01:126329251 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 20:55:04:132987790 --- 1.1.1.1 ping statistics ---
+2021-03-29 20:55:04:133841158 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 20:55:04:134774064 rtt min/avg/max/mdev = 22.361/22.613/22.896/0.190 ms
+2021-03-29 21:00:01:175539275 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:00:04:183551568 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:00:04:184579111 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 21:00:04:186231361 rtt min/avg/max/mdev = 22.356/22.489/22.567/0.085 ms
+2021-03-29 21:11:01:253792910 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:11:04:262891146 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:11:04:263808897 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 21:11:04:264899051 rtt min/avg/max/mdev = 22.525/22.765/22.959/0.167 ms
+2021-03-29 21:22:01:322048848 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:22:04:327951463 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:22:04:329135468 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 21:22:04:329941112 rtt min/avg/max/mdev = 22.209/22.425/22.592/0.144 ms
+2021-03-29 21:33:01:383427280 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:33:04:393429308 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:33:04:394447462 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 21:33:04:395663364 rtt min/avg/max/mdev = 22.244/22.330/22.390/0.056 ms
+2021-03-29 21:44:01:443170019 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:44:04:450021872 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:44:04:450747470 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 21:44:04:451697676 rtt min/avg/max/mdev = 22.318/22.441/22.601/0.101 ms
+2021-03-29 21:55:01:495191992 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 21:55:04:502210642 --- 1.1.1.1 ping statistics ---
+2021-03-29 21:55:04:503222709 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 21:55:04:504466837 rtt min/avg/max/mdev = 22.423/22.564/22.701/0.100 ms
+2021-03-29 22:00:01:554932917 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:00:04:561082197 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:00:04:562159145 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 22:00:04:563183809 rtt min/avg/max/mdev = 22.205/22.447/22.800/0.219 ms
+2021-03-29 22:11:01:606959235 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:11:04:613075218 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:11:04:614039006 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-29 22:11:04:614856167 rtt min/avg/max/mdev = 22.356/22.572/22.819/0.164 ms
+2021-03-29 22:22:01:667124317 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:22:04:674329254 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:22:04:675139118 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 22:22:04:675907415 rtt min/avg/max/mdev = 22.117/22.214/22.390/0.104 ms
+2021-03-29 22:33:01:723228706 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:33:04:728942207 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:33:04:729819985 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 22:33:04:730636059 rtt min/avg/max/mdev = 22.186/22.244/22.333/0.058 ms
+2021-03-29 22:44:01:777913073 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:44:04:787733255 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:44:04:788563213 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-29 22:44:04:789595815 rtt min/avg/max/mdev = 22.191/22.452/22.597/0.155 ms
+2021-03-29 22:55:01:839516845 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 22:55:04:846385572 --- 1.1.1.1 ping statistics ---
+2021-03-29 22:55:04:847262881 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-29 22:55:04:848077550 rtt min/avg/max/mdev = 22.213/22.429/22.536/0.126 ms
+2021-03-29 23:00:01:891615944 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:00:04:897800142 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:00:04:898569993 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-29 23:00:04:899364370 rtt min/avg/max/mdev = 22.112/22.257/22.414/0.122 ms
+2021-03-29 23:11:01:950995068 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:11:04:960204805 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:11:04:961655587 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-29 23:11:04:962582074 rtt min/avg/max/mdev = 22.000/22.258/22.412/0.165 ms
+2021-03-29 23:22:02:017078457 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:22:05:020803017 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:22:05:021586222 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-29 23:22:05:022534109 rtt min/avg/max/mdev = 22.114/22.434/22.577/0.189 ms
+2021-03-29 23:33:01:071264234 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:33:04:079550230 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:33:04:080372961 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 23:33:04:081670978 rtt min/avg/max/mdev = 22.124/22.358/22.614/0.174 ms
+2021-03-29 23:44:01:134143553 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:44:04:141803657 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:44:04:142569932 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 23:44:04:143322610 rtt min/avg/max/mdev = 22.312/22.461/22.707/0.152 ms
+2021-03-29 23:55:01:195899958 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-29 23:55:04:203311308 --- 1.1.1.1 ping statistics ---
+2021-03-29 23:55:04:204104339 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-29 23:55:04:204847630 rtt min/avg/max/mdev = 22.267/22.347/22.428/0.057 ms
+2021-03-30 00:00:01:338663629 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:00:04:332080670 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:00:04:333521389 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-30 00:00:04:334668514 rtt min/avg/max/mdev = 22.130/25.121/33.767/4.991 ms
+2021-03-30 00:11:01:385012182 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:11:04:393253772 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:11:04:394061148 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 00:11:04:394831321 rtt min/avg/max/mdev = 22.327/22.495/22.899/0.236 ms
+2021-03-30 00:22:01:447724556 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:22:04:454772800 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:22:04:455586295 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 00:22:04:456378254 rtt min/avg/max/mdev = 22.455/22.664/22.872/0.172 ms
+2021-03-30 00:33:01:506448159 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:33:04:515545644 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:33:04:516451383 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 00:33:04:517879503 rtt min/avg/max/mdev = 22.260/22.491/22.657/0.160 ms
+2021-03-30 00:44:01:564090797 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:44:04:568365722 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:44:04:569447365 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-30 00:44:04:570256122 rtt min/avg/max/mdev = 22.377/22.458/22.669/0.122 ms
+2021-03-30 00:55:01:614594192 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 00:55:04:618812845 --- 1.1.1.1 ping statistics ---
+2021-03-30 00:55:04:619643979 4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+2021-03-30 00:55:04:620609461 rtt min/avg/max/mdev = 22.421/22.609/22.839/0.153 ms
+2021-03-30 01:00:01:661973635 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:00:04:671239339 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:00:04:672517051 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 01:00:04:673517916 rtt min/avg/max/mdev = 22.401/22.485/22.583/0.075 ms
+2021-03-30 01:11:01:723520938 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:11:04:728771868 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:11:04:729676639 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 01:11:04:730544301 rtt min/avg/max/mdev = 22.416/22.765/23.036/0.274 ms
+2021-03-30 01:22:01:788099946 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:22:04:797101384 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:22:04:797853456 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 01:22:04:798624234 rtt min/avg/max/mdev = 22.065/22.308/22.455/0.146 ms
+2021-03-30 01:33:01:845116899 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:33:04:851521548 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:33:04:852490974 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 01:33:04:853507324 rtt min/avg/max/mdev = 22.159/22.437/22.903/0.291 ms
+2021-03-30 01:44:01:898687594 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:44:04:909787267 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:44:04:910596712 4 packets transmitted, 4 received, 0% packet loss, time 3010ms
+2021-03-30 01:44:04:911381326 rtt min/avg/max/mdev = 22.141/22.380/22.584/0.165 ms
+2021-03-30 01:55:01:960192931 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 01:55:04:967986673 --- 1.1.1.1 ping statistics ---
+2021-03-30 01:55:04:969095737 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 01:55:04:969929492 rtt min/avg/max/mdev = 22.346/22.363/22.382/0.015 ms
+2021-03-30 02:00:02:012550276 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:00:05:015887955 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:00:05:016883421 4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+2021-03-30 02:00:05:017654001 rtt min/avg/max/mdev = 22.483/22.848/23.487/0.380 ms
+2021-03-30 02:11:01:067428677 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:11:04:076227466 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:11:04:077341527 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 02:11:04:078140692 rtt min/avg/max/mdev = 22.206/22.345/22.491/0.129 ms
+2021-03-30 02:22:01:132059661 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:22:04:137648748 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:22:04:138497488 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 02:22:04:139421362 rtt min/avg/max/mdev = 22.315/22.419/22.563/0.090 ms
+2021-03-30 02:33:01:187208741 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:33:04:194453317 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:33:04:195311411 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 02:33:04:196232041 rtt min/avg/max/mdev = 22.276/22.379/22.636/0.148 ms
+2021-03-30 02:44:01:244191686 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:44:04:250542572 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:44:04:251500543 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 02:44:04:252296365 rtt min/avg/max/mdev = 22.186/22.384/22.591/0.159 ms
+2021-03-30 02:55:01:296993814 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 02:55:04:302539130 --- 1.1.1.1 ping statistics ---
+2021-03-30 02:55:04:303471396 4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+2021-03-30 02:55:04:304479043 rtt min/avg/max/mdev = 22.080/22.241/22.487/0.170 ms
+2021-03-30 03:00:01:346767245 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:00:04:353241317 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:00:04:354008601 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 03:00:04:354844980 rtt min/avg/max/mdev = 22.138/22.441/22.659/0.203 ms
+2021-03-30 03:11:01:406311939 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:11:04:413682540 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:11:04:414777644 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 03:11:04:415587499 rtt min/avg/max/mdev = 22.353/22.496/22.834/0.196 ms
+2021-03-30 03:22:01:470421943 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:22:04:477586894 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:22:04:478349688 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 03:22:04:479235137 rtt min/avg/max/mdev = 22.188/22.307/22.461/0.111 ms
+2021-03-30 03:33:01:524027671 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:33:04:532314193 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:33:04:533384222 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 03:33:04:534188304 rtt min/avg/max/mdev = 22.095/22.293/22.465/0.135 ms
+2021-03-30 03:44:01:581483630 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:44:04:588202631 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:44:04:589319198 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 03:44:04:590125110 rtt min/avg/max/mdev = 22.355/22.580/22.687/0.131 ms
+2021-03-30 03:55:01:635989347 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 03:55:04:643655133 --- 1.1.1.1 ping statistics ---
+2021-03-30 03:55:04:644448032 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 03:55:04:645443239 rtt min/avg/max/mdev = 22.065/22.213/22.341/0.098 ms
+2021-03-30 04:00:01:686066539 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:00:04:695001750 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:00:04:695794906 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 04:00:04:696775357 rtt min/avg/max/mdev = 22.270/22.373/22.430/0.061 ms
+2021-03-30 04:11:01:744070428 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:11:04:750159185 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:11:04:751307000 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 04:11:04:752286676 rtt min/avg/max/mdev = 22.043/22.287/22.431/0.147 ms
+2021-03-30 04:22:01:809306502 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:22:04:816391771 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:22:04:817471930 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 04:22:04:818568828 rtt min/avg/max/mdev = 22.315/22.470/22.537/0.090 ms
+2021-03-30 04:33:01:865830277 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:33:04:871721777 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:33:04:872918373 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 04:33:04:873726103 rtt min/avg/max/mdev = 22.008/22.197/22.313/0.120 ms
+2021-03-30 04:44:01:925203922 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:44:04:933947999 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:44:04:934869506 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 04:44:04:935716165 rtt min/avg/max/mdev = 22.424/22.827/23.694/0.507 ms
+2021-03-30 04:55:01:984867540 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 04:55:04:989127308 --- 1.1.1.1 ping statistics ---
+2021-03-30 04:55:04:989943142 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 04:55:04:990708524 rtt min/avg/max/mdev = 22.198/22.476/23.017/0.320 ms
+2021-03-30 05:00:02:032948978 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:00:05:039444607 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:00:05:040324004 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 05:00:05:041384536 rtt min/avg/max/mdev = 22.277/22.471/22.695/0.166 ms
+2021-03-30 05:11:01:088322927 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:11:04:094818261 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:11:04:095702710 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 05:11:04:096646488 rtt min/avg/max/mdev = 22.060/22.178/22.484/0.176 ms
+2021-03-30 05:22:01:150570765 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:22:04:157254883 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:22:04:158343875 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 05:22:04:159304196 rtt min/avg/max/mdev = 22.237/22.333/22.416/0.065 ms
+2021-03-30 05:33:01:210802975 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:33:04:220574212 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:33:04:221857460 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 05:33:04:222789743 rtt min/avg/max/mdev = 22.241/22.416/22.610/0.136 ms
+2021-03-30 05:44:01:275734048 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:44:04:282502511 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:44:04:283448048 4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+2021-03-30 05:44:04:284435921 rtt min/avg/max/mdev = 22.214/23.243/26.000/1.594 ms
+2021-03-30 05:55:01:334457725 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 05:55:04:340754041 --- 1.1.1.1 ping statistics ---
+2021-03-30 05:55:04:341571600 4 packets transmitted, 4 received, 0% packet loss, time 3006ms
+2021-03-30 05:55:04:342446568 rtt min/avg/max/mdev = 22.221/22.294/22.414/0.078 ms
+2021-03-30 06:00:01:387270357 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 06:00:04:395799165 --- 1.1.1.1 ping statistics ---
+2021-03-30 06:00:04:397230933 4 packets transmitted, 4 received, 0% packet loss, time 3008ms
+2021-03-30 06:00:04:398216775 rtt min/avg/max/mdev = 22.136/22.310/22.463/0.131 ms
+2021-03-30 06:11:01:498764698 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 06:11:04:507900301 --- 1.1.1.1 ping statistics ---
+2021-03-30 06:11:04:508844993 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 06:11:04:509605661 rtt min/avg/max/mdev = 22.045/22.248/22.385/0.126 ms
+2021-03-30 06:22:01:567240934 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+2021-03-30 06:22:04:576221180 --- 1.1.1.1 ping statistics ---
+2021-03-30 06:22:04:577303289 4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+2021-03-30 06:22:04:578085823 rtt min/avg/max/mdev = 22.242/22.555/22.759/0.191 ms
